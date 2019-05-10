@@ -1,4 +1,4 @@
-#JavaScript Case Study - Slider with e.keycodes
+# JavaScript Case Study - Slider with e.keycodes
 
 JS: 
 - Array

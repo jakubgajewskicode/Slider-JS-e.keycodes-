@@ -1,7 +1,3 @@
-// 1. Klawisz <- (stzałka w lewo) przesuwa w lewo (cofa) slider
-// 2. Klawisz -> (stzałka w lewo) przesuwa w prawo slider (do przod, czyli tak jak przy funkcji changeSlide) 
-// 3. (strzałki) wstrzymuje setInterval, a po zmianie slajdu uruchamiają go ponownie (czas ma się liczyć ponownie)
-
 
 const slideList = [{
  img: "images/img1.jpg",

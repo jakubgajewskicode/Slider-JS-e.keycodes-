@@ -8,4 +8,6 @@ JS:
  - changeSlide is changing automatically imgs from array 
  - keyChangeSlide determine what to do when you click keydown left or right by using conditional rules
 
+<br>
 
+Link to it on top
